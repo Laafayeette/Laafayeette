@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Teoman Köylüoglu</h1>
-<h3 align="center">A passionate and ambitious Information Technology student at KTH. Welcome to my programming world, where I will be keeping my personal and study-related projects. Currently I've been delving into database systems, backend development and looking to combine that knowledge with front end for combining different frameworks into creating scalable applications. My true passion seems to wander towards Java and creating databases for effective connectivity.</h3>
+<h3 align="center">A passionate and ambitious Information Technology student at KTH. Welcome to my programming world, where I will be keeping my personal and study-related projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laafayeette&label=Profile%20views&color=0e75b6&style=flat" alt="laafayeette" /> </p>
 
-- 🔭 I’m currently working on **A cinema project.**
+- 🔭 I’m currently working on **a cinema project.**
+
+<p>
+Currently I've been delving into database systems, backend development and looking to combine that knowledge with front end for combining different frameworks into creating scalable applications. My true passion seems to wander towards Java and creating databases for effective connectivity.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
