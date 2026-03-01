@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Teoman Köylüoglu</h1>
-<h3 align="center">A passionate and ambitious Information Technology student at KTH. Welcome to my programming world, where I will be keeping my personal and study-related projects.</h3>
+<h3 align="center">ICT student at KTH. Currently pursuing a Master's in Computer Science, with focus on Software Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laafayeette&label=Profile%20views&color=0e75b6&style=flat" alt="laafayeette" /> </p>
 
-- 🔭 I’m currently working on **a cinema project.**
+- Interested in distributed systems, algorithms, programming languages, networking. I also tinker with Tampermonkey scripts for fun.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
